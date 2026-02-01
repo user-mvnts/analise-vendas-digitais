@@ -13,8 +13,6 @@ Desenvolver um projeto completo de análise de dados, abrangendo:
 - Análise de dados com Python  
 - Visualização de indicadores  
 
-## Tecnologias utilizadas
-
 ## Tecnologias Utilizadas
 
 <p align="left">
