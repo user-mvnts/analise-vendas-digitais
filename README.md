@@ -13,12 +13,18 @@ Desenvolver um projeto completo de análise de dados, abrangendo:
 - Análise de dados com Python  
 - Visualização de indicadores  
 
+## Tecnologias utilizadas
+
 ## Tecnologias Utilizadas
 
-- **Python** — Análise, tratamento e exploração de dados  
-- **SQL** — Extração e agregação de métricas  
-- **Jupyter Notebook** — Ambiente de análise  
-- **Git / GitHub** — Versionamento e portfólio  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 ## Estrutura do Projeto
 ```
